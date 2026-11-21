@@ -1,0 +1,8 @@
+{
+  "name":"lucxi-store",
+  "version":"1.0.0",
+  "private":true,
+  "description":"LUCXI ecommerce storefront with server-side order persistence and email notifications",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^4.21.2","nodemailer":"^6.10.1","dotenv":"^16.4.7"}
+}
